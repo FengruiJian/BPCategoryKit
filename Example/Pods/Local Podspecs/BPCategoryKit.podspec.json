@@ -1,0 +1,22 @@
+{
+  "name": "BPCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of BPCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jfr0524@qq.com/BPCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jfr0524@qq.com": "jfr0524@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jfr0524@qq.com/BPCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BPCategoryKit/Classes/**/*"
+}

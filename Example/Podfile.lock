@@ -1,0 +1,16 @@
+PODS:
+  - BPCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - BPCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  BPCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BPCategoryKit: d2f3ab67efbca4b582cbc56d6ca868c78a70b9cb
+
+PODFILE CHECKSUM: 4d13d044be2ee67edea2342e7adc2ecde4228810
+
+COCOAPODS: 1.5.3

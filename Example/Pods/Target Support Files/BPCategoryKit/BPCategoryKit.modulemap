@@ -1,0 +1,6 @@
+framework module BPCategoryKit {
+  umbrella header "BPCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
